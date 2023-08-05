@@ -1,0 +1,173 @@
+.foot {
+    font-weight: 700;
+    font-style: oblique;
+    text-align: center;
+}
+
+.footer {
+    background-color: rgb(221, 228, 235);
+    border: 2px solid gray;
+    width: 100%;
+    background-position: bottom;
+}
+
+.dias {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.horarios {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.dia-l {
+    font-weight: 900;
+    font-size: larger;
+    color: blue;
+}
+
+.horario-l {
+    font-style: oblique;
+    color: blue;
+}
+
+.dia-m {
+    font-weight: 900;
+    font-size: larger;
+    color: brown;
+}
+
+.horario-m {
+    font-style: oblique;
+    color: brown;
+}
+
+.dia-x {
+    font-weight: 900;
+    font-size: larger;
+    color: yellow
+}
+
+.horario-x {
+    font-style: oblique;
+    color: yellow
+}
+
+.dia-j {
+    font-weight: 900;
+    font-size: larger;
+    color: green
+}
+
+.horario-j {
+    font-style: oblique;
+    color: green
+}
+
+.dia-v {
+    font-weight: 900;
+    font-size: larger;
+    color: purple
+}
+
+.horario-v {
+    font-style: oblique;
+    color: purple
+}
+
+.principal {
+    
+    margin: 0px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.tur {
+    background-color: honeydew;
+    color: azure;
+    border: 10px solid gray;
+}
+
+.arq {
+    background-color: honeydew;
+    color: azure;
+    border: 10px solid gray;
+}
+
+.cli {
+    background-color: honeydew;
+    color: azure;
+    border: 10px solid gray;
+}
+
+.titulo-tur {
+    color: black;
+    font-weight: 800;
+    text-align: center;
+    font-size: x-large;
+}
+
+.titulo-arq {
+    color: black;
+    font-weight: 800;
+    text-align: center;
+    font-size: x-large;
+}
+
+.titulo-cli {
+    color: black;
+    font-weight: 800;
+    text-align: center;
+    font-size: x-large;
+}
+
+.text-tur {
+    color: black;
+    font-style: italic;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.text-arq {
+    color: black;
+    font-style: italic;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.text-cli {
+    color: black;
+    font-style: italic;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.lista {
+    list-style: none;
+    border: 3px solid rgb(50, 41, 18);
+    margin-right: 960px;
+}
+
+.header {
+    background-color: aqua;
+    background-position: top;
+    padding-top: 20px;
+}
+
+.nav {
+    display: flex;
+    gap: 170px;
+    list-style-type: none;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: rgb(244, 244, 195);
+   
+}
+
+.titulo {
+    text-align: center;
+    color: rgb(13, 1, 53);
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
